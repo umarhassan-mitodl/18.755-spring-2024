@@ -22,8 +22,8 @@
     "website": "lie-groups-and-lie-algebras-ii"
   },
   "course_title": "Lie Groups and Lie Algebras II",
-  "hide_download": true,
-  "course_description": "This course is the second half of the year-long introductory graduate sequence [*Lie Groups and Lie Algebras I*](https://ocw.mit.edu/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/) *& Lie Groups and Lie Algebras II*. Topics include classical groups, Haar measure on locally compact groups, the representation-theoretic understanding of the hydrogen atom, representations of compact (in particular, finite) groups, the Peter-Weyl theorem with proof, maximal tori, Cartan and Iwasawa decompositions, classification of real reductive Lie groups, topology of Lie groups, proof of the third fundamental theorem of Lie theory, Levi decomposition, Ado's theorem, Borel subgroups, and flag manifolds.",
+  "hide_download": false,
+  "course_description": "This course is the second half of the year-long introductory graduate sequence {{% resource_link \"c655b6db-74a5-4a53-8411-04fb29a09409\" \"*Lie Groups and Lie Algebras I*\" %}} *& Lie Groups and Lie Algebras II*. Topics include classical groups, Haar measure on locally compact groups, the representation-theoretic understanding of the hydrogen atom, representations of compact (in particular, finite) groups, the Peter-Weyl theorem with proof, maximal tori, Cartan and Iwasawa decompositions, classification of real reductive Lie groups, topology of Lie groups, proof of the third fundamental theorem of Lie theory, Levi decomposition, Ado's theorem, Borel subgroups, and flag manifolds.",
   "department_numbers": [
     "18"
   ],
@@ -33,7 +33,6 @@
     "content": "",
     "website": "lie-groups-and-lie-algebras-ii"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Open Textbooks",
     "Lecture Notes",
